@@ -1,1 +1,1 @@
-# Medical-Inventory-Optimazation
+# Medical-Inventory-Management
